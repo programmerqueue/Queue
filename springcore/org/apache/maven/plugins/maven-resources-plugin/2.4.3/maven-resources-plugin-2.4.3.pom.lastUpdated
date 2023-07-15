@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 24 20:26:19 PDT 2021
+0e457066c91fff7265565a4b26662058120af9dd@192.168.1.100\:6666>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1635132379650
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.4.3 from/to central (https\://repo.maven.apache.org/maven2)\: Connect timed out
